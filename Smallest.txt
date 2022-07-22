@@ -1,0 +1,23 @@
+public class Smallest
+{
+	public static void main(String args[])
+	{
+		System.out.println("Enter the three numbers");
+		Scanner sc=new Int();
+		int a=sc.next Int();	
+		int c=sc.next Int();
+		int b=sc.next Int();
+		If(a<b && a<c)
+		{
+			System.out.println(+a "is Small");
+		}
+		else(b<a && b<c)
+		{
+			System.out.println(+b "is Small");
+		}
+		else
+		{
+			System.out.println(+c "is Small");
+		}
+	}
+}
